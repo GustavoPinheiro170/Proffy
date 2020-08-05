@@ -8,7 +8,7 @@
 
 <p align="center">	
 <a href="https://www.linkedin.com/in/GustavoPinheiro170/">
-  <img alt="Linkedin GustavoPinheiro170" src="https://img.shields.io/badge/-brunobach-8257E5?style=flat&logo=Linkedin&logoColor=white" />
+  <img alt="Linkedin GustavoPinheiro170" src="https://img.shields.io/badge/-GustavoPinheiro170-8257E5?style=flat&logo=Linkedin&logoColor=white" />
   </a>
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/brunobach/proffy?color=774DD6">
 
