@@ -139,7 +139,7 @@ Alunos poderão selecionar matérias e filtrar dentro da aplicação, também po
 
 ```bash
 # Primeiro Clone este repositorio
-$ git clone https://github.com/brunobach/Proffy.git
+$ git clone https://github.com/GustavoPinheiro170/Proffy.git
 
 # Entre na pasta do projeto web
 $ cd proffy/web
